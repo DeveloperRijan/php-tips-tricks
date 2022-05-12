@@ -1,2 +1,4 @@
 # php-tips-tricks
-Shorts of PHP | PHP Tips and Tricks
+You will learn:
+01. How to pass PHP Variable to Javascript
+2. PHP array to Javascript object
